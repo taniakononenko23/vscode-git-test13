@@ -2,7 +2,7 @@ ul > li:first-child > span {
   background-color: red;
   color: white;
 }
-li:last-of-type > span {
+ul > li:last-of-type > span {
   background-color: black;
   color: white;
 }
@@ -16,5 +16,5 @@ li:nth-child(even) > span {
   margin-left: 16px;
 }
 li {
-  margin-bottom: 16 px;
+  margin-bottom: 16px;
 }
